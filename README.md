@@ -12,12 +12,16 @@
 
 ## <p align="center">💫 About Me</p>
 
-<p align="center">
-Currently diving into Data Science & Generative AI (LangChain, LLMs), while building side projects using Python. <br><br>
-Actively collaborating on open-source tools, product teardowns, and student-led tech initiatives.<br><br>
-📩 Open to learning and mentorship in product/data internships and improving cold outreach.<br><br>
-Also interested in Tier-3 engineering journeys, NCC life, content creation, and personal finance.<br><br>
-✨ Dreaming of traveling the world, creating content, and working remotely on things I love.
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 16px;">
+  Currently diving into <strong>Data Science</strong> & <strong>Generative AI</strong> (LangChain, LLMs), while building side projects using <strong>Python</strong>.
+  <br><br>
+  Actively collaborating on <em>open-source tools</em>, <em>product teardowns</em>, and <em>student-led tech initiatives</em>.
+  <br><br>
+  📩 Open to learning and mentorship in <strong>product/data internships</strong> and improving cold outreach.
+  <br><br>
+  Also interested in <strong>Tier-3 engineering journeys</strong>, <strong>NCC life</strong>, <strong>content creation</strong>, and <strong>personal finance</strong>.
+  <br><br>
+  ✨ Dreaming of <em>traveling the world</em>, <em>creating content</em>, and <em>working remotely</em> on things I love.
 </p>
 
 ---
